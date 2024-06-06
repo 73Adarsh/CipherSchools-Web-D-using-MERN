@@ -1,0 +1,3 @@
+In this lecture i have learn how to setup NodeJS and why we should we need NodeJS in Web Development.
+
+Installing and Setup IDE.
