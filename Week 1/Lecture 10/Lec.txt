@@ -1,0 +1,18 @@
+Objects : It is a unique entity that contains some properties and methods.
+    a. Object Literal
+    b. Object Constructor
+    c. Object.create()
+
+
+Classes: classes are blurprints of an Object.
+
+
+Abstraction: It means displaying only the essential information and the details.
+
+Encapsulation: The process of wrapping properties and function within a single unit is called Encapsulation.
+
+Inheritance: Passing down characteristics from a parent to a child so that a new piece of code can reuse and build upon the features of an existing one
+
+Polymorphism: Polymorphism means one name many forms.
+              One function behaves different forms.
+              In other words, "Many forms of a single object is called Polymorphism."

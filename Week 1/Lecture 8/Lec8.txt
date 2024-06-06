@@ -1,2 +1,51 @@
 // All these commands are to be run in the console of the lec8 html file
 
+const headings = document.querySelectorAll("h2")
+headings
+
+const firstHeading = headings[0]
+firstHeading
+
+const secondHeading = headings[1]
+secondHeading
+
+document.querySelector(".orange").innerHTML
+
+const appleList = document.querySelector(".apple-list")
+appleList.children
+appleList.childNodes
+appleList.firstChild
+appleList.lastChild
+appleList.parentElement
+appleList.parentNode
+
+const btn1 = document.querySelector(".btn-1")
+btn1.closest("main")
+btn1
+
+const orange = document.querySelector(".orange")
+const apple = orange.previousElementSibling;
+const avocado = orange.nextElementSibling;
+orange
+apple
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
