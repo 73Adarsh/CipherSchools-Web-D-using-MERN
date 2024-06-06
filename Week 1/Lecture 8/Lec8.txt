@@ -1,0 +1,2 @@
+// All these commands are to be run in the console of the lec8 html file
+
